@@ -1,0 +1,5 @@
+			Summary of Data from Sensors
+		Average		Minimum Reading		Maximum Reading
+LDR Raw		3686.3		1000			3729
+TMP Raw		13.8		0			3000
+TMP Celcius	0.4		0			95
