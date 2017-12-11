@@ -55,7 +55,6 @@ int main(int argc, char* argv[]){
 	   else{
 	   ledGPIO.setValue(LOW);
 	   
-	   	   cout << LDRvalue << "," << 0 << "," << 0 << endl;
    }
    return 0;
 }

@@ -22,7 +22,7 @@ print s3
 
 s1 = map(int, s1)
 s2 = map(int, s2)
-s3 = map(int, s3)
+s3 = map(float, s3)
 
 s1_results = [float(format(sum(map(float, s1))/len(s1), '.1f')), min(s1), max(s1)]
 s2_results = [float(format(sum(map(float, s2))/len(s2), '.1f')), min(s2), max(s2)]
